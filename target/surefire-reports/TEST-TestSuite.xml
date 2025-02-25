@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="15.149" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="14.132" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Pritam\AppData\Local\Temp\surefire12997595003339098693\surefirebooter-20250225190126367_3.jar C:\Users\Pritam\AppData\Local\Temp\surefire12997595003339098693 2025-02-25T19-01-25_983-jvmRun1 surefire-20250225190126367_1tmp surefire_0-20250225190126367_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Pritam\AppData\Local\Temp\surefire46772137657411414\surefirebooter-20250225220011370_3.jar C:\Users\Pritam\AppData\Local\Temp\surefire46772137657411414 2025-02-25T22-00-11_061-jvmRun1 surefire-20250225220011370_1tmp surefire_0-20250225220011370_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes;C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\classes;C:\Users\Pritam\.m2\repository\io\rest-assured\rest-assured\5.5.1\rest-assured-5.5.1.jar;C:\Users\Pritam\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Pritam\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Pritam\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Pritam\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Pritam\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Pritam\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Pritam\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Pritam\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Pritam\.m2\repository\io\rest-assured\xml-path\5.5.1\xml-path-5.5.1.jar;C:\Users\Pritam\.m2\repository\io\rest-assured\json-path\5.5.1\json-path-5.5.1.jar;C:\Users\Pritam\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Pritam\.m2\repository\io\rest-assured\rest-assured-common\5.5.1\rest-assured-common-5.5.1.jar;C:\Users\Pritam\.m2\repository\org\json\json\20250107\json-20250107.jar;C:\Users\Pritam\.m2\repository\com\google\code\gson\gson\2.12.1\gson-2.12.1.jar;C:\Users\Pritam\.m2\repository\com\google\errorprone\error_prone_annotations\2.36.0\error_prone_annotations-2.36.0.jar;C:\Users\Pritam\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\Pritam\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\Pritam\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\Pritam\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\Pritam\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\Pritam\.m2\repository\com\github\scribejava\scribejava-core\8.3.3\scribejava-core-8.3.3.jar;C:\Users\Pritam\.m2\repository\com\github\scribejava\scribejava-java8\8.3.3\scribejava-java8-8.3.3.jar;C:\Users\Pritam\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.0\jackson-databind-2.14.0.jar;C:\Users\Pritam\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.0\jackson-annotations-2.14.0.jar;C:\Users\Pritam\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jackson-core-2.14.0.jar;C:\Users\Pritam\.m2\repository\io\rest-assured\json-schema-validator\5.5.1\json-schema-validator-5.5.1.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\Pritam\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\Pritam\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\Pritam\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\Pritam\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\Pritam\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\Pritam\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Pritam\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Pritam\.m2\repository\com\google\guava\guava\33.2.1-jre\guava-33.2.1-jre.jar;C:\Users\Pritam\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\Pritam\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Pritam\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\Pritam\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\Pritam\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Pritam\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Pritam\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Pritam\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Pritam\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\Pritam\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\Pritam\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\Pritam\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\Pritam\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\Pritam\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\Pritam\.m2\repository\org\apache\poi\poi\5.4.0\poi-5.4.0.jar;C:\Users\Pritam\.m2\repository\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;C:\Users\Pritam\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Pritam\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Pritam\.m2\repository\commons-io\commons-io\2.18.0\commons-io-2.18.0.jar;C:\Users\Pritam\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\Pritam\.m2\repository\org\apache\poi\poi-ooxml\5.4.0\poi-ooxml-5.4.0.jar;C:\Users\Pritam\.m2\repository\org\apache\poi\poi-ooxml-lite\5.4.0\poi-ooxml-lite-5.4.0.jar;C:\Users\Pritam\.m2\repository\org\apache\xmlbeans\xmlbeans\5.3.0\xmlbeans-5.3.0.jar;C:\Users\Pritam\.m2\repository\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;C:\Users\Pritam\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\Pritam\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\Pritam\.m2\repository\org\apache\logging\log4j\log4j-core\2.18.0\log4j-core-2.18.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -26,11 +26,12 @@
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
     <property name="basedir" value="C:\Users\Pritam\eclipse-workspace\PetStoreAutomation"/>
+    <property name="style.color" value="always"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Pritam\AppData\Local\Temp\surefire12997595003339098693\surefirebooter-20250225190126367_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Pritam\AppData\Local\Temp\surefire46772137657411414\surefirebooter-20250225220011370_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
@@ -50,7 +51,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\MinGW\bin;C:\Chromedriver;C:\Program Files\Java\jdk-19\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_modules;C:\apache-maven-3.9.9\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Ruby27-x64\bin;C:\python\Scripts\;C:\python\;C:\Users\Pritam\AppData\Local\Microsoft\WindowsApps;C:\Users\Pritam\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.2\bin;;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.5\bin;;C:\Users\Pritam\AppData\Local\GitHubDesktop\bin;C:\Users\Pritam\AppData\Roaming\npm;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\MinGW\bin;C:\Chromedriver;C:\Program Files\Java\jdk-19\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_modules;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Ruby27-x64\bin;C:\python\Scripts\;C:\python\;C:\Users\Pritam\AppData\Local\Microsoft\WindowsApps;C:\Users\Pritam\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.2\bin;;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.5\bin;;C:\Users\Pritam\AppData\Local\GitHubDesktop\bin;C:\Users\Pritam\AppData\Roaming\npm;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -58,100 +59,100 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testPostUser" classname="api.test.UserTests2" time="5.726">
-    <system-out><![CDATA[2025-02-25 19:01:30,213 main DEBUG Apache Log4j Core 2.18.0 initializing configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml]
-2025-02-25 19:01:30,216 main DEBUG PluginManager 'Core' found 130 plugins
-2025-02-25 19:01:30,216 main DEBUG PluginManager 'Level' found 0 plugins
-2025-02-25 19:01:30,228 main DEBUG Building Plugin[name=property, class=org.apache.logging.log4j.core.config.Property].
-2025-02-25 19:01:30,274 main TRACE TypeConverterRegistry initializing.
-2025-02-25 19:01:30,275 main DEBUG PluginManager 'TypeConverter' found 26 plugins
-2025-02-25 19:01:30,291 main DEBUG createProperty(name="basePath", value="./logs", Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml))
-2025-02-25 19:01:30,294 main DEBUG Building Plugin[name=properties, class=org.apache.logging.log4j.core.config.PropertiesPlugin].
-2025-02-25 19:01:30,299 main DEBUG configureSubstitutor(={basePath=./logs}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml))
-2025-02-25 19:01:30,302 main DEBUG PluginManager 'Lookup' found 16 plugins
-2025-02-25 19:01:30,303 main DEBUG Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
-2025-02-25 19:01:30,321 main DEBUG PatternLayout$Builder(pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n", PatternSelector=null, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
-2025-02-25 19:01:30,324 main DEBUG PluginManager 'Converter' found 45 plugins
-2025-02-25 19:01:30,325 main DEBUG Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.ConsoleAppender].
-2025-02-25 19:01:30,345 main DEBUG ConsoleAppender$Builder(target="SYSTEM_OUT", follow="null", direct="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n), name="Console", Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null, ={})
-2025-02-25 19:01:30,351 main DEBUG Starting OutputStreamManager SYSTEM_OUT.false.false
-2025-02-25 19:01:30,352 main DEBUG Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
-2025-02-25 19:01:30,353 main DEBUG PatternLayout$Builder(pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n", PatternSelector=null, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
-2025-02-25 19:01:30,355 main DEBUG Building Plugin[name=SizeBasedTriggeringPolicy, class=org.apache.logging.log4j.core.appender.rolling.SizeBasedTriggeringPolicy].
-2025-02-25 19:01:30,362 main DEBUG createPolicy(size="50000")
-2025-02-25 19:01:30,366 main DEBUG Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.RollingFileAppender].
-2025-02-25 19:01:30,377 main DEBUG RollingFileAppender$Builder(fileName="./logs/automation.log", filePattern="./logs/automation-%d{yyyy-MM-dd}.log", append="null", locking="null", SizeBasedTriggeringPolicy(SizeBasedTriggeringPolicy(size=50000)), Strategy=null, advertise="null", advertiseUri="null", createOnDemand="null", filePermissions="null", fileOwner="null", fileGroup="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n), name="File", Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null, ={})
-2025-02-25 19:01:30,400 main TRACE New file './logs/automation.log' created = false
-2025-02-25 19:01:30,402 main DEBUG Returning file creation time for C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\.\logs\automation.log
-2025-02-25 19:01:30,406 main DEBUG Starting RollingFileManager ./logs/automation.log
-2025-02-25 19:01:30,411 main DEBUG PluginManager 'FileConverter' found 2 plugins
-2025-02-25 19:01:30,447 main DEBUG Setting prev file time to 2025-02-23T23:18:54.879+0530
-2025-02-25 19:01:30,447 main DEBUG Initializing triggering policy SizeBasedTriggeringPolicy(size=50000)
-2025-02-25 19:01:30,448 main DEBUG Building Plugin[name=appenders, class=org.apache.logging.log4j.core.config.AppendersPlugin].
-2025-02-25 19:01:30,449 main DEBUG createAppenders(={Console, File})
-2025-02-25 19:01:30,449 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
-2025-02-25 19:01:30,460 main DEBUG createAppenderRef(ref="File", level="null", Filter=null)
-2025-02-25 19:01:30,462 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
-2025-02-25 19:01:30,463 main DEBUG createAppenderRef(ref="Console", level="null", Filter=null)
-2025-02-25 19:01:30,464 main DEBUG Building Plugin[name=root, class=org.apache.logging.log4j.core.config.LoggerConfig$RootLogger].
-2025-02-25 19:01:30,470 main DEBUG LoggerConfig$RootLogger$Builder(additivity="null", level="DEBUG", levelAndRefs="null", includeLocation="null", ={File, Console}, ={}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null)
-2025-02-25 19:01:30,480 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
-2025-02-25 19:01:30,483 main DEBUG createAppenderRef(ref="File", level="null", Filter=null)
-2025-02-25 19:01:30,484 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
-2025-02-25 19:01:30,486 main DEBUG createAppenderRef(ref="Console", level="null", Filter=null)
-2025-02-25 19:01:30,487 main DEBUG Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
-2025-02-25 19:01:30,497 main DEBUG LoggerConfig$Builder(additivity="false", level="DEBUG", levelAndRefs="null", name="io.restassured", includeLocation="null", ={File, Console}, ={}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null)
-2025-02-25 19:01:30,500 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
-2025-02-25 19:01:30,503 main DEBUG createAppenderRef(ref="File", level="null", Filter=null)
-2025-02-25 19:01:30,506 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
-2025-02-25 19:01:30,507 main DEBUG createAppenderRef(ref="Console", level="null", Filter=null)
-2025-02-25 19:01:30,508 main DEBUG Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
-2025-02-25 19:01:30,510 main DEBUG LoggerConfig$Builder(additivity="false", level="DEBUG", levelAndRefs="null", name="org.apache.http", includeLocation="null", ={File, Console}, ={}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null)
-2025-02-25 19:01:30,511 main DEBUG Building Plugin[name=loggers, class=org.apache.logging.log4j.core.config.LoggersPlugin].
-2025-02-25 19:01:30,513 main DEBUG createLoggers(={root, io.restassured, org.apache.http})
-2025-02-25 19:01:30,515 main DEBUG Configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml] initialized
-2025-02-25 19:01:30,515 main DEBUG Starting configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml]
-2025-02-25 19:01:30,515 main DEBUG Started configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml] OK.
-2025-02-25 19:01:30,515 main TRACE Stopping org.apache.logging.log4j.core.config.DefaultConfiguration@17fede14...
-2025-02-25 19:01:30,516 main TRACE DefaultConfiguration notified 1 ReliabilityStrategies that config will be stopped.
-2025-02-25 19:01:30,516 main TRACE DefaultConfiguration stopping root LoggerConfig.
-2025-02-25 19:01:30,516 main TRACE DefaultConfiguration notifying ReliabilityStrategies that appenders will be stopped.
-2025-02-25 19:01:30,517 main TRACE DefaultConfiguration stopping remaining Appenders.
-2025-02-25 19:01:30,517 main DEBUG Shutting down OutputStreamManager SYSTEM_OUT.false.false-1
-2025-02-25 19:01:30,517 main DEBUG OutputStream closed
-2025-02-25 19:01:30,518 main DEBUG Shut down OutputStreamManager SYSTEM_OUT.false.false-1, all resources released: true
-2025-02-25 19:01:30,518 main DEBUG Appender DefaultConsole-1 stopped with status true
-2025-02-25 19:01:30,518 main TRACE DefaultConfiguration stopped 1 remaining Appenders.
-2025-02-25 19:01:30,519 main TRACE DefaultConfiguration cleaning Appenders from 1 LoggerConfigs.
-2025-02-25 19:01:30,519 main DEBUG Stopped org.apache.logging.log4j.core.config.DefaultConfiguration@17fede14 OK
-2025-02-25 19:01:30,767 main TRACE Reregistering MBeans after reconfigure. Selector=org.apache.logging.log4j.core.selector.ClassLoaderContextSelector@7fb8bad0
-2025-02-25 19:01:30,768 main TRACE Reregistering context (1/1): '70dea4e' org.apache.logging.log4j.core.LoggerContext@12d40609
-2025-02-25 19:01:30,769 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e'
-2025-02-25 19:01:30,770 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=StatusLogger'
-2025-02-25 19:01:30,770 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=ContextSelector'
-2025-02-25 19:01:30,772 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=*'
-2025-02-25 19:01:30,773 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=Appenders,name=*'
-2025-02-25 19:01:30,774 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=AsyncAppenders,name=*'
-2025-02-25 19:01:30,775 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=AsyncLoggerRingBuffer'
-2025-02-25 19:01:30,776 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=*,subtype=RingBuffer'
-2025-02-25 19:01:30,779 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e
-2025-02-25 19:01:30,783 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=StatusLogger
-2025-02-25 19:01:30,785 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=ContextSelector
-2025-02-25 19:01:30,792 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=
-2025-02-25 19:01:30,793 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=io.restassured
-2025-02-25 19:01:30,794 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=org.apache.http
-2025-02-25 19:01:30,798 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Appenders,name=Console
-2025-02-25 19:01:30,800 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Appenders,name=File
-2025-02-25 19:01:30,814 main TRACE Using default SystemClock for timestamps.
-2025-02-25 19:01:30,815 main DEBUG org.apache.logging.log4j.core.util.SystemClock supports precise timestamps.
-2025-02-25 19:01:30,817 main TRACE Using DummyNanoClock for nanosecond timestamps.
-2025-02-25 19:01:30,819 main DEBUG Reconfiguration complete for context[name=70dea4e] at URI C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml (org.apache.logging.log4j.core.LoggerContext@12d40609) with optional ClassLoader: null
-2025-02-25 19:01:30,820 main DEBUG Shutdown hook enabled. Registering a new one.
-2025-02-25 19:01:30,828 main DEBUG LoggerContext[name=70dea4e, org.apache.logging.log4j.core.LoggerContext@12d40609] started OK.
-19:01:30.872 [main] INFO  api.test.UserTests2 - ******** Creating user *********
-19:01:30.879 [main] DEBUG api.test.UserTests2 - debugging
+  <testcase name="testPostUser" classname="api.test.UserTests2" time="5.523">
+    <system-out><![CDATA[2025-02-25 22:00:14,684 main DEBUG Apache Log4j Core 2.18.0 initializing configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml]
+2025-02-25 22:00:14,686 main DEBUG PluginManager 'Core' found 130 plugins
+2025-02-25 22:00:14,686 main DEBUG PluginManager 'Level' found 0 plugins
+2025-02-25 22:00:14,698 main DEBUG Building Plugin[name=property, class=org.apache.logging.log4j.core.config.Property].
+2025-02-25 22:00:14,730 main TRACE TypeConverterRegistry initializing.
+2025-02-25 22:00:14,731 main DEBUG PluginManager 'TypeConverter' found 26 plugins
+2025-02-25 22:00:14,748 main DEBUG createProperty(name="basePath", value="./logs", Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml))
+2025-02-25 22:00:14,750 main DEBUG Building Plugin[name=properties, class=org.apache.logging.log4j.core.config.PropertiesPlugin].
+2025-02-25 22:00:14,754 main DEBUG configureSubstitutor(={basePath=./logs}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml))
+2025-02-25 22:00:14,757 main DEBUG PluginManager 'Lookup' found 16 plugins
+2025-02-25 22:00:14,759 main DEBUG Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+2025-02-25 22:00:14,783 main DEBUG PatternLayout$Builder(pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n", PatternSelector=null, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+2025-02-25 22:00:14,784 main DEBUG PluginManager 'Converter' found 45 plugins
+2025-02-25 22:00:14,785 main DEBUG Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.ConsoleAppender].
+2025-02-25 22:00:14,799 main DEBUG ConsoleAppender$Builder(target="SYSTEM_OUT", follow="null", direct="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n), name="Console", Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null, ={})
+2025-02-25 22:00:14,803 main DEBUG Starting OutputStreamManager SYSTEM_OUT.false.false
+2025-02-25 22:00:14,804 main DEBUG Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+2025-02-25 22:00:14,807 main DEBUG PatternLayout$Builder(pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n", PatternSelector=null, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+2025-02-25 22:00:14,809 main DEBUG Building Plugin[name=SizeBasedTriggeringPolicy, class=org.apache.logging.log4j.core.appender.rolling.SizeBasedTriggeringPolicy].
+2025-02-25 22:00:14,812 main DEBUG createPolicy(size="50000")
+2025-02-25 22:00:14,815 main DEBUG Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.RollingFileAppender].
+2025-02-25 22:00:14,823 main DEBUG RollingFileAppender$Builder(fileName="./logs/automation.log", filePattern="./logs/automation-%d{yyyy-MM-dd}.log", append="null", locking="null", SizeBasedTriggeringPolicy(SizeBasedTriggeringPolicy(size=50000)), Strategy=null, advertise="null", advertiseUri="null", createOnDemand="null", filePermissions="null", fileOwner="null", fileGroup="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n), name="File", Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null, ={})
+2025-02-25 22:00:14,834 main TRACE New file './logs/automation.log' created = false
+2025-02-25 22:00:14,835 main DEBUG Returning file creation time for C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\.\logs\automation.log
+2025-02-25 22:00:14,836 main DEBUG Starting RollingFileManager ./logs/automation.log
+2025-02-25 22:00:14,843 main DEBUG PluginManager 'FileConverter' found 2 plugins
+2025-02-25 22:00:14,868 main DEBUG Setting prev file time to 2025-02-23T23:18:54.879+0530
+2025-02-25 22:00:14,869 main DEBUG Initializing triggering policy SizeBasedTriggeringPolicy(size=50000)
+2025-02-25 22:00:14,869 main DEBUG Building Plugin[name=appenders, class=org.apache.logging.log4j.core.config.AppendersPlugin].
+2025-02-25 22:00:14,870 main DEBUG createAppenders(={Console, File})
+2025-02-25 22:00:14,875 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2025-02-25 22:00:14,877 main DEBUG createAppenderRef(ref="File", level="null", Filter=null)
+2025-02-25 22:00:14,890 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2025-02-25 22:00:14,892 main DEBUG createAppenderRef(ref="Console", level="null", Filter=null)
+2025-02-25 22:00:14,893 main DEBUG Building Plugin[name=root, class=org.apache.logging.log4j.core.config.LoggerConfig$RootLogger].
+2025-02-25 22:00:14,907 main DEBUG LoggerConfig$RootLogger$Builder(additivity="null", level="DEBUG", levelAndRefs="null", includeLocation="null", ={File, Console}, ={}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null)
+2025-02-25 22:00:14,913 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2025-02-25 22:00:14,914 main DEBUG createAppenderRef(ref="File", level="null", Filter=null)
+2025-02-25 22:00:14,915 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2025-02-25 22:00:14,916 main DEBUG createAppenderRef(ref="Console", level="null", Filter=null)
+2025-02-25 22:00:14,916 main DEBUG Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+2025-02-25 22:00:14,925 main DEBUG LoggerConfig$Builder(additivity="false", level="DEBUG", levelAndRefs="null", name="io.restassured", includeLocation="null", ={File, Console}, ={}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null)
+2025-02-25 22:00:14,927 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2025-02-25 22:00:14,928 main DEBUG createAppenderRef(ref="File", level="null", Filter=null)
+2025-02-25 22:00:14,928 main DEBUG Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+2025-02-25 22:00:14,929 main DEBUG createAppenderRef(ref="Console", level="null", Filter=null)
+2025-02-25 22:00:14,930 main DEBUG Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+2025-02-25 22:00:14,931 main DEBUG LoggerConfig$Builder(additivity="false", level="DEBUG", levelAndRefs="null", name="org.apache.http", includeLocation="null", ={File, Console}, ={}, Configuration(C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml), Filter=null)
+2025-02-25 22:00:14,932 main DEBUG Building Plugin[name=loggers, class=org.apache.logging.log4j.core.config.LoggersPlugin].
+2025-02-25 22:00:14,933 main DEBUG createLoggers(={root, io.restassured, org.apache.http})
+2025-02-25 22:00:14,935 main DEBUG Configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml] initialized
+2025-02-25 22:00:14,936 main DEBUG Starting configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml]
+2025-02-25 22:00:14,937 main DEBUG Started configuration XmlConfiguration[location=C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml] OK.
+2025-02-25 22:00:14,943 main TRACE Stopping org.apache.logging.log4j.core.config.DefaultConfiguration@17fede14...
+2025-02-25 22:00:14,944 main TRACE DefaultConfiguration notified 1 ReliabilityStrategies that config will be stopped.
+2025-02-25 22:00:14,944 main TRACE DefaultConfiguration stopping root LoggerConfig.
+2025-02-25 22:00:14,945 main TRACE DefaultConfiguration notifying ReliabilityStrategies that appenders will be stopped.
+2025-02-25 22:00:14,946 main TRACE DefaultConfiguration stopping remaining Appenders.
+2025-02-25 22:00:14,947 main DEBUG Shutting down OutputStreamManager SYSTEM_OUT.false.false-1
+2025-02-25 22:00:14,948 main DEBUG OutputStream closed
+2025-02-25 22:00:14,949 main DEBUG Shut down OutputStreamManager SYSTEM_OUT.false.false-1, all resources released: true
+2025-02-25 22:00:14,949 main DEBUG Appender DefaultConsole-1 stopped with status true
+2025-02-25 22:00:14,950 main TRACE DefaultConfiguration stopped 1 remaining Appenders.
+2025-02-25 22:00:14,951 main TRACE DefaultConfiguration cleaning Appenders from 1 LoggerConfigs.
+2025-02-25 22:00:14,951 main DEBUG Stopped org.apache.logging.log4j.core.config.DefaultConfiguration@17fede14 OK
+2025-02-25 22:00:15,193 main TRACE Reregistering MBeans after reconfigure. Selector=org.apache.logging.log4j.core.selector.ClassLoaderContextSelector@7fb8bad0
+2025-02-25 22:00:15,196 main TRACE Reregistering context (1/1): '70dea4e' org.apache.logging.log4j.core.LoggerContext@12d40609
+2025-02-25 22:00:15,197 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e'
+2025-02-25 22:00:15,198 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=StatusLogger'
+2025-02-25 22:00:15,199 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=ContextSelector'
+2025-02-25 22:00:15,200 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=*'
+2025-02-25 22:00:15,201 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=Appenders,name=*'
+2025-02-25 22:00:15,201 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=AsyncAppenders,name=*'
+2025-02-25 22:00:15,202 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=AsyncLoggerRingBuffer'
+2025-02-25 22:00:15,203 main TRACE Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=*,subtype=RingBuffer'
+2025-02-25 22:00:15,210 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e
+2025-02-25 22:00:15,216 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=StatusLogger
+2025-02-25 22:00:15,219 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=ContextSelector
+2025-02-25 22:00:15,226 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=
+2025-02-25 22:00:15,227 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=io.restassured
+2025-02-25 22:00:15,228 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Loggers,name=org.apache.http
+2025-02-25 22:00:15,232 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Appenders,name=Console
+2025-02-25 22:00:15,233 main DEBUG Registering MBean org.apache.logging.log4j2:type=70dea4e,component=Appenders,name=File
+2025-02-25 22:00:15,237 main TRACE Using default SystemClock for timestamps.
+2025-02-25 22:00:15,239 main DEBUG org.apache.logging.log4j.core.util.SystemClock supports precise timestamps.
+2025-02-25 22:00:15,240 main TRACE Using DummyNanoClock for nanosecond timestamps.
+2025-02-25 22:00:15,243 main DEBUG Reconfiguration complete for context[name=70dea4e] at URI C:\Users\Pritam\eclipse-workspace\PetStoreAutomation\target\test-classes\log4j2.xml (org.apache.logging.log4j.core.LoggerContext@12d40609) with optional ClassLoader: null
+2025-02-25 22:00:15,244 main DEBUG Shutdown hook enabled. Registering a new one.
+2025-02-25 22:00:15,249 main DEBUG LoggerContext[name=70dea4e, org.apache.logging.log4j.core.LoggerContext@12d40609] started OK.
+22:00:15.317 [main] INFO  api.test.UserTests2 - ******** Creating user *********
+22:00:15.325 [main] DEBUG api.test.UserTests2 - debugging
 HTTP/1.1 200 OK
-Date: Tue, 25 Feb 2025 13:31:34 GMT
+Date: Tue, 25 Feb 2025 16:30:18 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -165,18 +166,18 @@ Server: Jetty(9.2.9.v20150224)
     "type": "unknown",
     "message": "313082880"
 }
-19:01:36.595 [main] INFO  api.test.UserTests2 - ******** User is created *********
+22:00:20.801 [main] INFO  api.test.UserTests2 - ******** User is created *********
 ]]></system-out>
     <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testGetUserByName" classname="api.test.UserTests2" time="1.331">
-    <system-out><![CDATA[19:01:36.615 [main] INFO  api.test.UserTests2 - ******** Reading user info *********
-19:01:36.615 [main] DEBUG api.test.UserTests2 - debugging
+  <testcase name="testGetUserByName" classname="api.test.UserTests2" time="1.253">
+    <system-out><![CDATA[22:00:20.830 [main] INFO  api.test.UserTests2 - ******** Reading user info *********
+22:00:20.831 [main] DEBUG api.test.UserTests2 - debugging
 HTTP/1.1 200 OK
-Date: Tue, 25 Feb 2025 13:31:35 GMT
+Date: Tue, 25 Feb 2025 16:30:20 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -187,20 +188,20 @@ Server: Jetty(9.2.9.v20150224)
 
 {
     "id": 313082880,
-    "username": "kathe.torp",
-    "email": "ellen.prohaska@example.com",
-    "password": "pdf2nol29",
-    "phone": "1-547-948-5675",
+    "username": "roman.murray",
+    "email": "josiah.von@example.com",
+    "password": "h7so8kaa",
+    "phone": "802-309-9201",
     "userStatus": 0
 }
-19:01:37.916 [main] INFO  api.test.UserTests2 - ******** User info is displayed *********
+22:00:22.076 [main] INFO  api.test.UserTests2 - ******** User info is displayed *********
 ]]></system-out>
   </testcase>
-  <testcase name="testUpdateUserByName" classname="api.test.UserTests2" time="2.563">
-    <system-out><![CDATA[19:01:37.926 [main] INFO  api.test.UserTests2 - ******** Updating user info *********
-19:01:37.927 [main] DEBUG api.test.UserTests2 - debugging
+  <testcase name="testUpdateUserByName" classname="api.test.UserTests2" time="2.469">
+    <system-out><![CDATA[22:00:22.087 [main] INFO  api.test.UserTests2 - ******** Updating user info *********
+22:00:22.090 [main] DEBUG api.test.UserTests2 - debugging
 HTTP/1.1 200 OK
-Date: Tue, 25 Feb 2025 13:31:37 GMT
+Date: Tue, 25 Feb 2025 16:30:21 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -220,7 +221,7 @@ Server: Jetty(9.2.9.v20150224)
     "message": "313082880"
 }
 HTTP/1.1 200 OK
-Date: Tue, 25 Feb 2025 13:31:38 GMT
+Date: Tue, 25 Feb 2025 16:30:22 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -231,20 +232,20 @@ Server: Jetty(9.2.9.v20150224)
 
 {
     "id": 313082880,
-    "username": "kathe.torp",
-    "email": "quinn.ohara@example.com",
-    "password": "pdf2nol29",
-    "phone": "1-547-948-5675",
+    "username": "roman.murray",
+    "email": "ladawn.goldner@example.com",
+    "password": "h7so8kaa",
+    "phone": "802-309-9201",
     "userStatus": 0
 }
-19:01:40.470 [main] INFO  api.test.UserTests2 - ******** user is updated *********
+22:00:24.542 [main] INFO  api.test.UserTests2 - ******** user is updated *********
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteUserByName" classname="api.test.UserTests2" time="1.179">
-    <system-out><![CDATA[19:01:40.480 [main] INFO  api.test.UserTests2 - ******** Deleting user info *********
-19:01:40.482 [main] DEBUG api.test.UserTests2 - debugging
+  <testcase name="testDeleteUserByName" classname="api.test.UserTests2" time="1.114">
+    <system-out><![CDATA[22:00:24.550 [main] INFO  api.test.UserTests2 - ******** Deleting user info *********
+22:00:24.551 [main] DEBUG api.test.UserTests2 - debugging
 HTTP/1.1 200 OK
-Date: Tue, 25 Feb 2025 13:31:39 GMT
+Date: Tue, 25 Feb 2025 16:30:23 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -256,9 +257,9 @@ Server: Jetty(9.2.9.v20150224)
 {
     "code": 200,
     "type": "unknown",
-    "message": "kathe.torp"
+    "message": "roman.murray"
 }
-19:01:41.673 [main] INFO  api.test.UserTests2 - ******** user is deleted *********
+22:00:25.672 [main] INFO  api.test.UserTests2 - ******** user is deleted *********
 ]]></system-out>
   </testcase>
 </testsuite>
